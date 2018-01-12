@@ -6,3 +6,5 @@ const Comp2 = (props) => {
 
 export default Comp2
 
+
+
